@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaren</h1>
-<h3 align="center">A passionate fullstack developer from Cyprus-Turkey</h3>
+<h3 align="center">A passionate Cypriot fullstack developer from Turkey-Cyprus</h3>
 
 - 🔭 I’m currently working on [JavaCamp](https://github.com/Yaren656/JavaCamp)
 
