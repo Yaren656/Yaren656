@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yaren yuvka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="yaren yuvka" height="30" width="40" /></a>
-<a href="https://instagram.com/yarenyuvka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="yarenyuvka" height="30" width="40" /></a>
+<a> Linkedin : </a> <a href= "https://linkedin.com/in/yaren yuvka" target="blank"> <alt="yaren yuvka" height="30" width="40" /></a>
+<a> İnstagram : </a> <a href="https://instagram.com/yarenyuvka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="yarenyuvka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
