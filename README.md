@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaren</h1>
 <h3 align="center">A passionate Cypriot fullstack developer from Turkey-Cyprus 👩🏼‍💻</h3>
 
-- 🔭 I’m currently working on [JavaScriptCamp]
+- 🔭 I’m currently working on **JavaScriptCamp**
 
 - 🌱 I’m currently learning **JavaScript**
 
