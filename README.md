@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yaren</h1>
-<h3 align="center">A passionate Cypriot fullstack developer from Turkey-Cyprus 👩🏼‍💻</h3>
+<h3 align="center">A passionate Cypriot fullstack developer from Turkey-Cyprus 👩🏼‍💻 </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaren656&show_icons=true&theme=tokyonight)
 
