@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center">![Github stats](https://github-readme-stats.vercel.app/api?username=Yaren656&theme=highcontrast&show_icons=true&count_private=true)</h3>
+![Github stats]<h3 align="center">(https://github-readme-stats.vercel.app/api?username=Yaren656&theme=highcontrast&show_icons=true&count_private=true)</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
