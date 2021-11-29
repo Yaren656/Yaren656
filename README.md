@@ -7,7 +7,8 @@
 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Yaren656&theme=highcontrast&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
 
 
 <h3 align="center">Languages and Tools:</h3>
