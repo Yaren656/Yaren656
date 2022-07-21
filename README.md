@@ -3,9 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaren656&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on **JavaScriptCamp**
 
-- 🌱 I’m currently learning **JavaScript**
 
 
 <h1 align="center">Languages and Tools:</h1><h2>
