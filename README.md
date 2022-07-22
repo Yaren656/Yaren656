@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yaren</h1>
 <h3 align="center">A passionate Cypriot fullstack developer from Turkey-Cyprus 👩🏼 </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaren656&show_icons=true&theme=tokyonight)
+
 
 
 ## 🔍  Where to find me
-###### [![Linkedin: Yaren Yuvka](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/yarenyuvka/](https://www.linkedin.com/in/yarenyuvka/)]([https://www.linkedin.com/in/yarenyuvka/](https://www.linkedin.com/in/yarenyuvka/)) [![GitHub Yaren656](https://img.shields.io/github/followers/yaren656?label=follow&style=social)]([https://github.com/Yaren656](https://github.com/Yaren656)) 
+###### [![Linkedin: Yaren Yuvka](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yarenyuvka/](https://www.linkedin.com/in/yarenyuvka/)](https://www.linkedin.com/in/yarenyuvka/) [![GitHub Yaren656](https://img.shields.io/github/followers/yaren656?label=follow&style=social)]([https://github.com/Yaren656](https://github.com/Yaren656)) 
 
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yaren656)
-![stats](https://github-readme-stats.vercel.app/api?username=yaren656&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
+![stats](https://github-readme-stats.vercel.app/api?username=Yaren656&&show_icons=true&theme=tokyonight)
 
 <h1 align="center">Languages and Tools:</h1><h3>
 <p align="center"><a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="70" height="70"/> </a> <a href="https://getbootstrap.com" target="_blank"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/> </a>  <a href="https://www.w3schools.com/cs/" target="_blank"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/> </a><a href="https://dotnet.microsoft.com/" target="_blank"> <br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="70"/> </a><a href="https://www.w3.org/html/" target="_blank"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> 
