@@ -34,9 +34,7 @@
   
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> &nbsp; &nbsp; &nbsp; <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="70" height="70"/> <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="70" height="70" </a> 
   
-<a href="https://www.vectorlogo.zone" target="_blank"> &nbsp; &nbsp; &nbsp; <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="70" height="70" /> </a> 
-  
-</br> </p></h2>
+<a href="https://www.vectorlogo.zone" target="_blank"> &nbsp; &nbsp; &nbsp; <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="70" height="70" /> </a> </br> </p></h2>
 
 
 
