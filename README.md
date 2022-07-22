@@ -5,7 +5,7 @@
 
 
 ## 🔍  Where to find me
-###### [![Linkedin: Yaren Yuvka](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yarenyuvka/](https://www.linkedin.com/in/yarenyuvka/)](https://www.linkedin.com/in/yarenyuvka/) [![GitHub Yaren656](https://img.shields.io/github/followers/yaren656?label=follow&style=social)]([https://github.com/Yaren656](https://github.com/Yaren656)) 
+###### [![Linkedin: Yaren Yuvka](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yarenyuvka//)](https://www.linkedin.com/in/yarenyuvka/) [![GitHub Yaren656](https://img.shields.io/github/followers/yaren656?label=follow&style=social)](https://github.com/Yaren656) 
 
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yaren656)
