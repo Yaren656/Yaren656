@@ -4,6 +4,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaren656&show_icons=true&theme=tokyonight)
 
 
+## 🔍  Where to find me
+###### [![Linkedin: Yaren Yuvka](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/yarenyuvka/](https://www.linkedin.com/in/yarenyuvka/)]([https://www.linkedin.com/in/yarenyuvka/](https://www.linkedin.com/in/yarenyuvka/)) [![GitHub Yaren656](https://img.shields.io/github/followers/yaren656?label=follow&style=social)]([https://github.com/Yaren656](https://github.com/Yaren656)) 
+
+## 📊 Statistics
+#### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yaren656)
+![stats](https://github-readme-stats.vercel.app/api?username=yaren656&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 
 <h1 align="center">Languages and Tools:</h1><h3>
