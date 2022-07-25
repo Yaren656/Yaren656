@@ -9,7 +9,6 @@
 
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yaren656)
-![stats](https://github-readme-stats.vercel.app/api?username=Yaren656&&show_icons=true&theme=tokyonight)
 [![github stats](https://github-readme-stats.vercel.app/api?username=Yaren656&&show_icons=true&theme=tokyonight)](https://github.com/Yaren656/github-readme-stats)
 
 <h1 align="center">Languages and Tools:</h1><h3>
