@@ -9,7 +9,7 @@
 
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yaren656)
-[![github stats](https://github-readme-stats.vercel.app/api?username=Yaren656&&show_icons=true&theme=synthwave&layout=compact)](https://github.com/Yaren656/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Yaren656&&show_icons=true&theme=synthwave&layout=compact"width=300")](https://github.com/Yaren656/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaren656&&show_icons=true&theme=dracula&layout=compact)](https://github.com/Yaren656/github-readme-stats)
 
 <h1 align="center">Languages and Tools:</h1><h3>
