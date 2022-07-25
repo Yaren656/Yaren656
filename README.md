@@ -9,7 +9,7 @@
 
 ## 📊 Statistics
 #### ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yaren656)
-[![github stats](https://github-readme-stats.vercel.app/api?username=Yaren656&&show_icons=true&theme=gruvbox)](https://github.com/Yaren656/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Yaren656&&show_icons=true&theme=merko)](https://github.com/Yaren656/github-readme-stats)
 
 <h1 align="center">Languages and Tools:</h1><h3>
 <p align="center"><a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="70" height="70"/> </a> <a href="https://getbootstrap.com" target="_blank"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/> </a>  <a href="https://www.w3schools.com/cs/" target="_blank"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="70"/> </a><a href="https://dotnet.microsoft.com/" target="_blank"> <br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="70" height="70"/> </a><a href="https://www.w3.org/html/" target="_blank"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> 
